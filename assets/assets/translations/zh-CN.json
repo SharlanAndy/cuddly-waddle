@@ -631,6 +631,8 @@
     "playerWins": "闲家赢！",
     "bankerWins": "庄家赢！",
     "tie": "和局！",
+    "youWin": "你赢了！",
+    "youLose": "你输了",
     "roadMap": "路单",
     "dealing": "发牌中...",
     "deal": "发牌"
