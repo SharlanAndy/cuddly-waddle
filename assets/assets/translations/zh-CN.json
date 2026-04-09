@@ -816,7 +816,9 @@
     "ball": "球号：{}",
     "recentGames": "最近游戏",
     "ballsCalled": "已叫球数",
-    "callBall": "叫球"
+    "callBall": "叫球",
+    "drawing": "开球中 {}/{}",
+    "startPrompt": "下注后自动开始叫球"
   },
   "fastParity": {
     "period": "期号 #{}",
