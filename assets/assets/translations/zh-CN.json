@@ -514,6 +514,8 @@
     "betAmount": "下注金额",
     "recentRounds": "最近局次",
     "sessionLog": "本局记录",
+    "wagered": "下注总额",
+    "profit": "利润",
     "placeBet": "确认下注",
     "win": "赢",
     "lose": "输",
