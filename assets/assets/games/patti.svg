@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- decorative border -->
+  <rect x="10" y="10" width="180" height="180" rx="12" fill="none" stroke="#FFB347" stroke-width="3" stroke-dasharray="8,4"/>
+  <!-- 3 cards (Teen Patti = 3 cards) -->
+  <rect x="25" y="50" width="48" height="70" rx="7" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <text x="49" y="84" font-family="Arial" font-weight="bold" font-size="22" fill="#E53935" text-anchor="middle">A</text>
+  <text x="49" y="106" font-family="Arial" font-size="20" fill="#E53935" text-anchor="middle">&#9829;</text>
+
+  <rect x="76" y="45" width="48" height="70" rx="7" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <text x="100" y="79" font-family="Arial" font-weight="bold" font-size="22" fill="#E53935" text-anchor="middle">A</text>
+  <text x="100" y="101" font-family="Arial" font-size="20" fill="#E53935" text-anchor="middle">&#9830;</text>
+
+  <rect x="127" y="50" width="48" height="70" rx="7" fill="#FFFFFF" stroke="#DDD" stroke-width="1"/>
+  <text x="151" y="84" font-family="Arial" font-weight="bold" font-size="22" fill="#E53935" text-anchor="middle">A</text>
+  <text x="151" y="106" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">&#9824;</text>
+
+  <!-- label -->
+  <text x="100" y="148" font-family="Arial" font-weight="bold" font-size="16" fill="#FFB347" text-anchor="middle">TEEN PATTI</text>
+  <text x="100" y="168" font-family="Arial" font-size="12" fill="#FFB347" text-anchor="middle" opacity="0.7">TRAIL OF ACES</text>
+
+</svg>

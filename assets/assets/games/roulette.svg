@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- outer ring -->
+  <circle cx="100" cy="100" r="82" fill="#1A2535" stroke="#FFB347" stroke-width="5"/>
+  <!-- colored number pockets -->
+  <path d="M100,100 L100,20 A80,80 0 0,1 138,30 Z" fill="#E53935"/>
+  <path d="M100,100 L138,30 A80,80 0 0,1 165,62 Z" fill="#1A2535"/>
+  <path d="M100,100 L165,62 A80,80 0 0,1 178,100 Z" fill="#E53935"/>
+  <path d="M100,100 L178,100 A80,80 0 0,1 165,138 Z" fill="#1A2535"/>
+  <path d="M100,100 L165,138 A80,80 0 0,1 138,170 Z" fill="#E53935"/>
+  <path d="M100,100 L138,170 A80,80 0 0,1 100,180 Z" fill="#1A2535"/>
+  <path d="M100,100 L100,180 A80,80 0 0,1 62,170 Z" fill="#E53935"/>
+  <path d="M100,100 L62,170 A80,80 0 0,1 35,138 Z" fill="#1A2535"/>
+  <path d="M100,100 L35,138 A80,80 0 0,1 22,100 Z" fill="#E53935"/>
+  <path d="M100,100 L22,100 A80,80 0 0,1 35,62 Z" fill="#1A2535"/>
+  <path d="M100,100 L35,62 A80,80 0 0,1 62,30 Z" fill="#E53935"/>
+  <path d="M100,100 L62,30 A80,80 0 0,1 100,20 Z" fill="#2E7D32"/>
+  <!-- inner wheel -->
+  <circle cx="100" cy="100" r="45" fill="#1A2535" stroke="#FFB347" stroke-width="4"/>
+  <circle cx="100" cy="100" r="15" fill="#FFB347"/>
+  <circle cx="100" cy="100" r="8" fill="#1A2535"/>
+  <!-- ball -->
+  <circle cx="155" cy="65" r="8" fill="#FFFFFF" stroke="#CCC" stroke-width="2"/>
+
+</svg>

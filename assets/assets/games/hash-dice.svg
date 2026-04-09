@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <rect x="30" y="30" width="140" height="140" rx="18" fill="none" stroke="#FFB347" stroke-width="7"/>
+  <!-- hash # symbol -->
+  <line x1="82" y1="65" x2="82" y2="135" stroke="#FFB347" stroke-width="7" stroke-linecap="round"/>
+  <line x1="118" y1="65" x2="118" y2="135" stroke="#FFB347" stroke-width="7" stroke-linecap="round"/>
+  <line x1="62" y1="83" x2="138" y2="83" stroke="#FFB347" stroke-width="7" stroke-linecap="round"/>
+  <line x1="62" y1="117" x2="138" y2="117" stroke="#FFB347" stroke-width="7" stroke-linecap="round"/>
+
+</svg>

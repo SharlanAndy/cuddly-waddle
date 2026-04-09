@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- numbered balls in grid -->
+  <circle cx="42" cy="55" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="42" y="62" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">7</text>
+  <circle cx="82" cy="55" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="82" y="62" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">14</text>
+  <circle cx="122" cy="55" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="122" y="62" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">23</text>
+  <circle cx="162" cy="55" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="162" y="62" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">31</text>
+
+  <circle cx="42" cy="100" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="42" y="107" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">42</text>
+  <circle cx="82" cy="100" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="82" y="107" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">55</text>
+  <circle cx="122" cy="100" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="122" y="107" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">63</text>
+  <circle cx="162" cy="100" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="162" y="107" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">70</text>
+
+  <circle cx="42" cy="145" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="42" y="152" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">4</text>
+  <circle cx="82" cy="145" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="82" y="152" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">18</text>
+  <circle cx="122" cy="145" r="18" fill="#FFB347" opacity="0.5"/>
+  <text x="122" y="152" font-family="Arial" font-weight="bold" font-size="16" fill="#FFFFFF" text-anchor="middle">37</text>
+  <circle cx="162" cy="145" r="18" fill="#FFB347" opacity="0.9"/>
+  <text x="162" y="152" font-family="Arial" font-weight="bold" font-size="16" fill="#1A2535" text-anchor="middle">80</text>
+
+</svg>

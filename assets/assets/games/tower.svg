@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- tower levels -->
+  <rect x="20" y="155" width="160" height="22" rx="5" fill="#FFB347" opacity="0.9"/>
+  <rect x="32" y="127" width="136" height="22" rx="5" fill="#FFB347" opacity="0.8"/>
+  <rect x="44" y="99" width="112" height="22" rx="5" fill="#FFB347" opacity="0.7"/>
+  <rect x="56" y="71" width="88" height="22" rx="5" fill="#FFB347" opacity="0.6"/>
+  <rect x="68" y="43" width="64" height="22" rx="5" fill="#FFB347" opacity="0.9"/>
+  <!-- top gem -->
+  <polygon points="100,20 88,38 112,38" fill="#E53935" opacity="0.9"/>
+  <!-- skull on bottom -->
+  <circle cx="100" cy="167" r="7" fill="#1A2535"/>
+  <rect x="96" y="168" width="8" height="6" rx="1" fill="#1A2535"/>
+  <circle cx="97" cy="165" r="2" fill="#E53935"/>
+  <circle cx="103" cy="165" r="2" fill="#E53935"/>
+
+</svg>

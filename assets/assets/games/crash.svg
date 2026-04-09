@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <defs>
+    <linearGradient id="rg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF8C00"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+  </defs>
+  <polyline points="25,170 80,120 120,90 160,40" fill="none" stroke="#FFB347" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="160" cy="40" r="6" fill="#FFB347"/>
+  <!-- Rocket body -->
+  <ellipse cx="100" cy="105" rx="16" ry="32" fill="url(#rg)" transform="rotate(-45,100,105)"/>
+  <polygon points="100,68 88,92 112,92" fill="#FFB347" transform="rotate(-45,100,105)"/>
+  <polygon points="84,118 74,132 94,128" fill="#FF8C00" transform="rotate(-45,100,105)"/>
+  <polygon points="116,118 122,135 106,128" fill="#FF8C00" transform="rotate(-45,100,105)"/>
+  <!-- flame -->
+  <ellipse cx="92" cy="128" rx="7" ry="12" fill="#FF4500" transform="rotate(-45,100,105)" opacity="0.9"/>
+
+</svg>

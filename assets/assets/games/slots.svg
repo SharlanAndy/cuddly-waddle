@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- machine body -->
+  <rect x="20" y="30" width="160" height="120" rx="12" fill="#2A3A50" stroke="#FFB347" stroke-width="4"/>
+  <!-- three reels -->
+  <rect x="32" y="45" width="40" height="70" rx="6" fill="#1A2535" stroke="#FFB347" stroke-width="2"/>
+  <rect x="80" y="45" width="40" height="70" rx="6" fill="#1A2535" stroke="#FFB347" stroke-width="2"/>
+  <rect x="128" y="45" width="40" height="70" rx="6" fill="#1A2535" stroke="#FFB347" stroke-width="2"/>
+  <!-- symbols on reels -->
+  <text x="52" y="90" font-family="Arial" font-size="30" text-anchor="middle">&#127849;</text>
+  <text x="100" y="90" font-family="Arial" font-size="30" text-anchor="middle">&#127849;</text>
+  <text x="148" y="90" font-family="Arial" font-size="30" text-anchor="middle">&#127849;</text>
+  <!-- win line -->
+  <line x1="22" y1="80" x2="178" y2="80" stroke="#E53935" stroke-width="2" stroke-dasharray="5,3" opacity="0.8"/>
+  <!-- lever -->
+  <line x1="180" y1="60" x2="180" y2="100" stroke="#FFB347" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="180" cy="60" r="8" fill="#E53935"/>
+  <!-- credits bar -->
+  <rect x="30" y="158" width="140" height="22" rx="5" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <text x="100" y="174" font-family="Arial" font-weight="bold" font-size="13" fill="#FFB347" text-anchor="middle">JACKPOT</text>
+
+</svg>

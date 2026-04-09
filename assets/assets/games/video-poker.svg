@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- 5 cards fan -->
+  <rect x="10" y="65" width="42" height="60" rx="5" fill="#FFFFFF" transform="rotate(-20,31,95)"/>
+  <text x="25" y="90" font-family="Arial" font-weight="bold" font-size="14" fill="#E53935" transform="rotate(-20,31,95)">A</text>
+  <text x="25" y="106" font-family="Arial" font-size="13" fill="#E53935" transform="rotate(-20,31,95)">&#9829;</text>
+
+  <rect x="40" y="60" width="42" height="60" rx="5" fill="#FFFFFF" transform="rotate(-10,61,90)"/>
+  <text x="54" y="85" font-family="Arial" font-weight="bold" font-size="14" fill="#E53935" transform="rotate(-10,61,90)">A</text>
+  <text x="54" y="101" font-family="Arial" font-size="13" fill="#E53935" transform="rotate(-10,61,90)">&#9830;</text>
+
+  <rect x="79" y="58" width="42" height="60" rx="5" fill="#FFFFFF"/>
+  <text x="93" y="83" font-family="Arial" font-weight="bold" font-size="14" fill="#333">A</text>
+  <text x="93" y="99" font-family="Arial" font-size="13" fill="#333">&#9824;</text>
+
+  <rect x="118" y="60" width="42" height="60" rx="5" fill="#FFFFFF" transform="rotate(10,139,90)"/>
+  <text x="132" y="85" font-family="Arial" font-weight="bold" font-size="14" fill="#E53935" transform="rotate(10,139,90)">A</text>
+  <text x="132" y="101" font-family="Arial" font-size="13" fill="#E53935" transform="rotate(10,139,90)">&#9829;</text>
+
+  <rect x="148" y="65" width="42" height="60" rx="5" fill="#FFFFFF" transform="rotate(20,169,95)"/>
+  <text x="162" y="90" font-family="Arial" font-weight="bold" font-size="14" fill="#333" transform="rotate(20,169,95)">K</text>
+  <text x="162" y="106" font-family="Arial" font-size="13" fill="#333" transform="rotate(20,169,95)">&#9824;</text>
+
+  <!-- label -->
+  <rect x="55" y="148" width="90" height="26" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <text x="100" y="166" font-family="Arial" font-weight="bold" font-size="13" fill="#FFB347" text-anchor="middle">4 OF A KIND</text>
+
+</svg>

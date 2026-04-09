@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- colored segments -->
+  <rect x="20" y="60" width="50" height="80" rx="8" fill="#E53935" opacity="0.9"/>
+  <rect x="80" y="60" width="40" height="80" rx="8" fill="#43A047" opacity="0.9"/>
+  <rect x="130" y="60" width="50" height="80" rx="8" fill="#FFB347" opacity="0.9"/>
+  <!-- timer circle -->
+  <circle cx="100" cy="160" r="18" fill="#1A2535" stroke="#FFB347" stroke-width="3"/>
+  <text x="100" y="167" font-family="Arial" font-weight="bold" font-size="16" fill="#FFB347" text-anchor="middle">5s</text>
+  <!-- labels -->
+  <text x="45" y="155" font-family="Arial" font-weight="bold" font-size="14" fill="#FFFFFF" text-anchor="middle" opacity="0.9">R</text>
+  <text x="100" y="155" font-family="Arial" font-weight="bold" font-size="14" fill="#FFFFFF" text-anchor="middle" opacity="0.9">G</text>
+  <text x="155" y="155" font-family="Arial" font-weight="bold" font-size="14" fill="#1A2535" text-anchor="middle" opacity="0.9">B</text>
+
+</svg>

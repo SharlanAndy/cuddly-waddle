@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- card back -->
+  <rect x="30" y="40" width="70" height="95" rx="8" fill="#2A3A50" stroke="#FFB347" stroke-width="3"/>
+  <text x="65" y="100" font-family="Arial" font-weight="bold" font-size="38" fill="#FFB347" text-anchor="middle">7</text>
+  <!-- arrows -->
+  <path d="M 115 80 L 145 60 L 145 75 L 165 75 L 165 85 L 145 85 L 145 100 Z" fill="#43A047" opacity="0.9"/>
+  <path d="M 115 120 L 145 140 L 145 125 L 165 125 L 165 115 L 145 115 L 145 100 Z" fill="#E53935" opacity="0.9"/>
+
+</svg>

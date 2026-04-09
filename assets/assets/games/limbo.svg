@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FF8C00"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+  </defs>
+  <!-- axis -->
+  <line x1="35" y1="165" x2="35" y2="30" stroke="#FFB347" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <line x1="35" y1="165" x2="170" y2="165" stroke="#FFB347" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <!-- rising curve -->
+  <path d="M 35 165 Q 80 160 110 130 T 170 35" fill="none" stroke="url(#lg)" stroke-width="5" stroke-linecap="round"/>
+  <!-- multiplier label -->
+  <text x="130" y="55" font-family="Arial" font-weight="bold" font-size="26" fill="#FFB347">x5.4</text>
+  <!-- rocket/arrow at top -->
+  <circle cx="170" cy="35" r="9" fill="#FFB347"/>
+
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- first die -->
+  <rect x="15" y="55" width="80" height="80" rx="12" fill="none" stroke="#FFB347" stroke-width="5"/>
+  <circle cx="40" cy="80" r="9" fill="#FFB347"/>
+  <circle cx="75" cy="110" r="9" fill="#FFB347"/>
+  <!-- second die (offset) -->
+  <rect x="75" y="65" width="80" height="80" rx="12" fill="#1A2535" stroke="#FFB347" stroke-width="5"/>
+  <circle cx="100" cy="90" r="9" fill="#FFB347"/>
+  <circle cx="135" cy="90" r="9" fill="#FFB347"/>
+  <circle cx="100" cy="125" r="9" fill="#FFB347"/>
+  <circle cx="135" cy="125" r="9" fill="#FFB347"/>
+
+</svg>

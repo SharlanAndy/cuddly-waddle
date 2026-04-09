@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- 3x3 grid -->
+  <rect x="25" y="25" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="78" y="25" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="131" y="25" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="25" y="78" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="78" y="78" width="44" height="44" rx="6" fill="#E53935" opacity="0.9" stroke="#FFB347" stroke-width="2"/>
+  <rect x="131" y="78" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="25" y="131" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="78" y="131" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <rect x="131" y="131" width="44" height="44" rx="6" fill="#FFB347" opacity="0.2" stroke="#FFB347" stroke-width="2"/>
+  <!-- mine symbol in center -->
+  <circle cx="100" cy="100" r="14" fill="#1A2535"/>
+  <circle cx="100" cy="100" r="10" fill="#FF4500"/>
+  <line x1="100" y1="85" x2="100" y2="75" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="115" x2="100" y2="125" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="85" y1="100" x2="75" y2="100" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="115" y1="100" x2="125" y2="100" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+</svg>

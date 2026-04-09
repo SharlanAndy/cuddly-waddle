@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <defs>
+    <linearGradient id="coin_g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB347"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+  </defs>
+  <!-- shadow/back coin -->
+  <ellipse cx="115" cy="108" rx="52" ry="52" fill="#8B6914" opacity="0.4"/>
+  <!-- main coin -->
+  <circle cx="100" cy="100" r="52" fill="url(#coin_g)"/>
+  <circle cx="100" cy="100" r="44" fill="none" stroke="#FF8C00" stroke-width="3"/>
+  <!-- H on heads side -->
+  <text x="100" y="115" font-family="Arial" font-weight="bold" font-size="44" fill="#1A2535" text-anchor="middle">H</text>
+
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- back card -->
+  <rect x="50" y="35" width="75" height="105" rx="8" fill="#2A3A50" stroke="#FFB347" stroke-width="3"/>
+  <!-- front card (slightly offset, white) -->
+  <rect x="75" y="55" width="75" height="105" rx="8" fill="#FFFFFF" stroke="#CCC" stroke-width="1"/>
+  <!-- Ace of spades -->
+  <text x="88" y="88" font-family="Arial" font-weight="bold" font-size="22" fill="#333">A</text>
+  <text x="88" y="110" font-family="Arial" font-size="22" fill="#333">&#9824;</text>
+  <!-- 10 of hearts - back card -->
+  <text x="60" y="92" font-family="Arial" font-weight="bold" font-size="22" fill="#FFB347">K</text>
+  <text x="60" y="116" font-family="Arial" font-size="22" fill="#E53935">&#9829;</text>
+
+</svg>

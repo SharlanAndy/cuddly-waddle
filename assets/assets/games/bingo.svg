@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <!-- BINGO header -->
+  <rect x="18" y="18" width="164" height="28" rx="5" fill="#FFB347"/>
+  <text x="40" y="37" font-family="Arial" font-weight="bold" font-size="18" fill="#1A2535">B</text>
+  <text x="65" y="37" font-family="Arial" font-weight="bold" font-size="18" fill="#1A2535">I</text>
+  <text x="88" y="37" font-family="Arial" font-weight="bold" font-size="18" fill="#1A2535">N</text>
+  <text x="110" y="37" font-family="Arial" font-weight="bold" font-size="18" fill="#1A2535">G</text>
+  <text x="135" y="37" font-family="Arial" font-weight="bold" font-size="18" fill="#1A2535">O</text>
+  <!-- grid cells 5x4 -->
+  <rect x="18" y="50" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="51" y="50" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="84" y="50" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="117" y="50" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="150" y="50" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="18" y="85" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="51" y="85" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="84" y="85" width="30" height="32" rx="4" fill="#FFB347" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="117" y="85" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="150" y="85" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="18" y="120" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="51" y="120" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="84" y="120" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="117" y="120" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="150" y="120" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="18" y="155" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="51" y="155" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="84" y="155" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="117" y="155" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/><rect x="150" y="155" width="30" height="32" rx="4" fill="#2A3A50" stroke="#FFB347" stroke-width="1.5" opacity="0.8"/>
+  <!-- FREE space star -->
+  <polygon points="100,60 104,72 116,72 107,79 110,91 100,84 90,91 93,79 84,72 96,72" fill="#FFB347"/>
+
+</svg>

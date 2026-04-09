@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1A2535"/>
+  
+  <defs>
+    <clipPath id="wc"><circle cx="100" cy="100" r="75"/></clipPath>
+  </defs>
+  <!-- wheel segments -->
+  <circle cx="100" cy="100" r="75" fill="#1A2535" stroke="#FFB347" stroke-width="4"/>
+  <!-- 8 segments -->
+  <path d="M100,100 L100,25 A75,75 0 0,1 153,62.5 Z" fill="#FFB347" opacity="0.9"/>
+  <path d="M100,100 L153,62.5 A75,75 0 0,1 175,100 Z" fill="#E53935" opacity="0.8"/>
+  <path d="M100,100 L175,100 A75,75 0 0,1 153,137.5 Z" fill="#FFB347" opacity="0.7"/>
+  <path d="M100,100 L153,137.5 A75,75 0 0,1 100,175 Z" fill="#43A047" opacity="0.8"/>
+  <path d="M100,100 L100,175 A75,75 0 0,1 47,137.5 Z" fill="#FFB347" opacity="0.9"/>
+  <path d="M100,100 L47,137.5 A75,75 0 0,1 25,100 Z" fill="#E53935" opacity="0.8"/>
+  <path d="M100,100 L25,100 A75,75 0 0,1 47,62.5 Z" fill="#FFB347" opacity="0.7"/>
+  <path d="M100,100 L47,62.5 A75,75 0 0,1 100,25 Z" fill="#43A047" opacity="0.8"/>
+  <!-- spoke lines -->
+  <line x1="100" y1="25" x2="100" y2="175" stroke="#1A2535" stroke-width="3"/>
+  <line x1="25" y1="100" x2="175" y2="100" stroke="#1A2535" stroke-width="3"/>
+  <line x1="47" y1="47" x2="153" y2="153" stroke="#1A2535" stroke-width="3"/>
+  <line x1="153" y1="47" x2="47" y2="153" stroke="#1A2535" stroke-width="3"/>
+  <circle cx="100" cy="100" r="12" fill="#FFB347"/>
+  <circle cx="100" cy="100" r="6" fill="#1A2535"/>
+  <!-- pointer -->
+  <polygon points="100,12 93,28 107,28" fill="#FFB347"/>
+
+</svg>
